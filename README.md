@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kris Lemeiux
-- Full stack developer @HelmOperations (@krislemie)
+- Hi, I’m Kris Lemeiux
+- 4th Year Computer Engineer @ UVic
 - Project Cordinator for UVic Rocketry's Ground Support Platform
 
 https://www.linkedin.com/in/krislemie/
