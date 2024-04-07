@@ -17,7 +17,7 @@
 
 # Top Projects
 
-[![Ground Support Card](https://github-readme-stats.vercel.app/api/pin/?username=UVicRocketry&repo=Ground-Support&bg_color=22272Etitle_color=F5C51C)](https://github.com/UVicRocketry/Ground-Support.git)
+[![Ground Support Card](https://github-readme-stats.vercel.app/api/pin/?username=UVicRocketry&repo=Ground-Support&bg_color=22272E&title_color=F5C51C)](https://github.com/UVicRocketry/Ground-Support.git)
 [![PDP Monitoring Card](https://github-readme-stats.vercel.app/api/pin/?username=UVicRocketry&repo=PDP-Monitoring-System&bg_color=22272E&title_color=8D66C3)](https://github.com/UVicRocketry/PDP-Monitoring-System.git)
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=klemie&repo=Portfolio&bg_color=22272E&title_color=F47749)](https://github.com/klemie/Portfolio)
 [![Table Tapp Card](https://github-readme-stats.vercel.app/api/pin/?username=TableTapp&repo=TableTapp&bg_color=22272E&title_color=CF4F45)](https://github.com/TableTapp/TableTapp.git)
