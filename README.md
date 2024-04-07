@@ -2,7 +2,7 @@
 
 > 📖 I am dylexic lmao, so my variable names go crazy
 
-> 🫳 I often times I find myself managing project. (UVic rocketry: Ground support, Propulsion Development Platform, Xenia-1 Flight Computer, TableTapp)
+> 🫳 I often times I find myself managing project. (Ground support, Propulsion Development Platform Monitoring System, Xenia-1 Flight Computer, TableTapp)
 
 > ⚙ 5th Year Computer Engineer @ UVic
 
