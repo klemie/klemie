@@ -1,4 +1,4 @@
-- Hi, I’m Kris Lemieux
+✨ Hi, I’m Kris Lemieux ✨
 - I am dylexic lmao, so my variable names go crazy
 - 5th Year Computer Engineer @ UVic
 - Project Coordinator for UVic Rocketry's Ground Support Platform
