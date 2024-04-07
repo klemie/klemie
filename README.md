@@ -7,9 +7,8 @@
 
 [![Ground Support Card](https://github-readme-stats.vercel.app/api/pin/?username=UVicRocketry&repo=Ground-Support)](https://github.com/UVicRocketry/Ground-Support.git)
 [![PDP Monitoring Card](https://github-readme-stats.vercel.app/api/pin/?username=UVicRocketry&repo=PDP-Monitoring-System)](https://github.com/UVicRocketry/PDP-Monitoring-System.git)
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=klemie&repo=Portfolio)](https://github.com/klemie/Portfolio.git)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=klemie&repo=Portfolio)](https://github.com/klemie/Portfolio)
 [![Table Tapp Card](https://github-readme-stats.vercel.app/api/pin/?username=TableTapp&repo=TableTapp)](https://github.com/TableTapp/TableTapp.git)
-
 
 # Stats
 ![Kris Lemieux Stats](https://github-readme-stats.vercel.app/api?username=klemie&show_icons=true&bg_color=fffffff&hide_rank=true&)
