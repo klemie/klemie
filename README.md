@@ -14,6 +14,7 @@
 `JS` ⭐⭐⭐⭐\
 `Python` ⭐⭐⭐⭐\
 `C/C++` ⭐⭐⭐\
+`Rust` ⭐⭐\
 `C#` ⭐⭐
 
 # Top Projects
