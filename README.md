@@ -8,16 +8,16 @@
 
 # Lanuage Profficencey
 
-`TS` ⭐⭐⭐⭐⭐
-`JS` ⭐⭐⭐⭐
-`Python` ⭐⭐⭐⭐
-`C/C++` ⭐⭐⭐
-`C#` ⭐⭐
+`TS` ⭐⭐⭐⭐⭐\
+`JS` ⭐⭐⭐⭐\
+`Python` ⭐⭐⭐⭐\
+`C/C++` ⭐⭐⭐\
+`C#` ⭐⭐\
 
 # Top Projects
 
 [![Ground Support Card](https://github-readme-stats.vercel.app/api/pin/?username=UVicRocketry&repo=Ground-Support)](https://github.com/UVicRocketry/Ground-Support.git)
-[![PDP Monitoring Card](https://github-readme-stats.vercel.app/api/pin/?username=UVicRocketry&repo=PDP-Monitoring-System)](https://github.com/UVicRocketry/PDP-Monitoring-System.git)
+[![PDP Monitoring Card](https://github-readme-stats.vercel.app/api/pin/?username=UVicRocketry&repo=PDP-Monitoring-Syten)](https://github.com/UVicRocketry/PDP-Monitoring-System.git)
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=klemie&repo=Portfolio)](https://github.com/klemie/Portfolio)
 [![Table Tapp Card](https://github-readme-stats.vercel.app/api/pin/?username=TableTapp&repo=TableTapp)](https://github.com/TableTapp/TableTapp.git)
 
