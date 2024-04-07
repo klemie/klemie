@@ -1,8 +1,8 @@
 ***<p style="text-align:center">✨ Hi, I’m Kris Lemieux ✨</p>***
 
 <p style="text-align:center">
-  📖 I am dylexic lmao, so my variable names go crazy
-  ⚙ 5th Year Computer Engineer @ UVic
+  📖 I am dylexic lmao, so my variable names go crazy\
+  ⚙ 5th Year Computer Engineer @ UVic\
   🚀 Project Coordinator for UVic Rocketry's Ground Support Platform
 </p>
 
