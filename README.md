@@ -4,7 +4,7 @@
 
 > ⚙ 5th Year Computer Engineer @ UVic\
 
-> 🚀 Project Coordinator for UVic Rocketry's Ground Support Platform
+> 🚀 Project Coordinator for [UVic Rocketry's](https://github.com/UVicRocketry) Ground Support Platform
 
 ![Kris Lemieux Stats](https://github-readme-stats.vercel.app/api?username=klemie&show_icons=true&bg_color=22272E&hide_rank=true&text_color=DEDBDB&title_color=2770DC&icon_color=2770DC&border_color=313843)
 
