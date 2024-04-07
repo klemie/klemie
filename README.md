@@ -1,4 +1,4 @@
-<p style="text-align:center">✨ Hi, I’m Kris Lemieux ✨</p>
+***<p style="text-align:center">✨ Hi, I’m Kris Lemieux ✨</p>***
 
 <p style="text-align:center">
   📖 I am dylexic lmao, so my variable names go crazy
