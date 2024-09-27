@@ -1,6 +1,6 @@
 ***<p style="text-align:center;">✨ Hi, I’m Kris Lemieux ✨</p>***
 
-> 📖 I am dylexic lmao, so my variable names go crazy
+> 📖 I am dylexic, so my variable names go crazy
 
 > 🫳 I often times I find myself managing projects. (Ground support, Propulsion Development Platform Monitoring System, Xenia-1 Flight Computer, TableTapp)
 
@@ -12,7 +12,7 @@
 
 [Portfolio Website](https://klemie.github.io/Portfolio) | [in/krislemie](https://www.linkedin.com/in/krislemie/)
 
-# Language Proficiency
+### Language Proficiency
 
 `TS` ⭐⭐⭐⭐\
 `JS` ⭐⭐⭐⭐\
@@ -21,7 +21,7 @@
 `Rust` ⭐⭐\
 `C#` ⭐⭐
 
-# Top Projects
+### Top Projects
 
 [![Ground Support Card](https://github-readme-stats.vercel.app/api/pin/?username=UVicRocketry&repo=Ground-Support&bg_color=22272E&title_color=F5C51C&text_color=DEDBDB&icon_color=F5C51C&border_color=313843)](https://github.com/UVicRocketry/Ground-Support.git)
 [![PDP Monitoring Card](https://github-readme-stats.vercel.app/api/pin/?username=UVicRocketry&repo=PDP-Monitoring-System&bg_color=22272E&title_color=8D66C3&text_color=DEDBDB&icon_color=8D66C3&border_color=313843)](https://github.com/UVicRocketry/PDP-Monitoring-System.git)
