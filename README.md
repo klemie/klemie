@@ -10,13 +10,11 @@
 
 > 🌐 SWE @ Shift
 
-![Kris Lemieux Stats](https://github-readme-stats.vercel.app/api?username=klemie&show_icons=true&bg_color=22272E&hide_rank=true&text_color=DEDBDB&title_color=2770DC&icon_color=2770DC&border_color=313843)
-
 [Portfolio Website](https://klemie.github.io/Portfolio) | [in/krislemie](https://www.linkedin.com/in/krislemie/)
 
 # Language Proficiency
 
-`TS` ⭐⭐⭐⭐⭐\
+`TS` ⭐⭐⭐⭐\
 `JS` ⭐⭐⭐⭐\
 `Python` ⭐⭐⭐⭐\
 `C/C++` ⭐⭐⭐\
