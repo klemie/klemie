@@ -4,8 +4,6 @@
 
 > 🫳 I often times I find myself managing projects. (Ground support, Propulsion Development Platform Monitoring System, Xenia-1 Flight Computer, TableTapp)
 
-> ⚙ 5th Year Computer Engineer @ UVic
-
 > 🚀 Project Coordinator for [UVic Rocketry's](https://github.com/UVicRocketry) Ground Infrustructure
 
 > 🌐 SWE @ Shift
