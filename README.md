@@ -1,8 +1,10 @@
 ***<p style="text-align:center;">✨ Hi, I’m Kris Lemieux ✨</p>***
 
-> 📖 I am dylexic, so my variable names go crazy
+> 📖 I am dyslexic, so my variable names are wild
 
-> 🫳 I often times I find myself managing projects. (Ground support, Propulsion Development Platform Monitoring System, Xenia-1 Flight Computer, TableTapp)
+> 🎓 Computer Engineering Graduate of UVic
+
+> 🫳 I often find myself managing projects. (Ground support, Propulsion Development Platform Monitoring System, Xenia-1 Flight Computer, TableTapp)
 
 > 🚀 Project Coordinator for [UVic Rocketry's](https://github.com/UVicRocketry) Ground Infrustructure
 
