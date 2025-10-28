@@ -1,13 +1,10 @@
 ***<p style="text-align:center;">✨ Hi, I’m Kris ✨</p>***
 
 
-> 🎓 Computer Engineering Graduate of UVic
-
-> 🫳 I am the a Product Owner and Engineer wrapped into one slightly Dylexic package
-
-> 🚀 Previous Project Coordinator UVic Rocketry's Ground Infrustructure
-
-> 🌐 Product Engineer @ Shift
+- 🎓 Computer Engineering Graduate of UVic
+- 🫳 I am a Product Owner and Engineer wrapped into one slightly dyslexic package
+- 🚀 Previous Project Coordinator UVic Rocketry's Ground Infrustructure
+- 🌐 Product Engineer @ Shift
 
 [Portfolio Website](https://klemie.github.io/Portfolio) | [in/krislemie](https://www.linkedin.com/in/krislemie/)
 
