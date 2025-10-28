@@ -1,19 +1,19 @@
-***<p style="text-align:center;">✨ Hi, I’m Kris Lemieux ✨</p>***
+***<p style="text-align:center;">✨ Hi, I’m Kris ✨</p>***
+
 
 > 🎓 Computer Engineering Graduate of UVic
 
-> 🫳 I often find myself managing projects. (Ground support, Propulsion Development Platform Monitoring System, Xenia-1 Flight Computer, TableTapp)
+> 🫳 I am the a Product Owner and Engineer wrapped into one slightly Dylexic package
 
 > 🚀 Previous Project Coordinator UVic Rocketry's Ground Infrustructure
 
-> 🌐 SWE @ Shift
+> 🌐 Product Engineer @ Shift
 
 [Portfolio Website](https://klemie.github.io/Portfolio) | [in/krislemie](https://www.linkedin.com/in/krislemie/)
 
 ### Language Proficiency
 
-`TS` ⭐⭐⭐⭐\
-`JS` ⭐⭐⭐⭐\
+`TS/JS` ⭐⭐⭐⭐\
 `Python` ⭐⭐⭐⭐\
 `C/C++` ⭐⭐⭐\
 `Rust` ⭐⭐\
