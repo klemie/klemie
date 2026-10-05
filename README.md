@@ -1,4 +1,4 @@
-***<p style="text-align:center;">✨ Hi, I’m Kris ✨</p>***
+***<p style="text-align:center;">Hi, I’m Kris </p>***
 
 
 - 🎓 Computer Engineering Graduate of UVic
